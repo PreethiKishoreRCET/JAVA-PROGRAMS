@@ -1,0 +1,9 @@
+import java.io.*;
+public class Sample
+{
+  public static void main(String arg[])
+  {
+    Sample s=new Sample();
+    System.out.println("Welcome");
+  }
+}
